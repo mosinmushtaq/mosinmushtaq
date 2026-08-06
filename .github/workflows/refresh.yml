@@ -16,9 +16,10 @@ jobs:
         run: |
           pip install pillow numpy opencv-python-headless rembg onnxruntime
           python3 scripts/generate_stats.py
+          python3 scripts/make_portrait.py "Gemini_Generated_Image_clcdl6clcdl6clcd (2).png" ascii.svg
       - run: |
-          FILES="stats.svg streak.svg langs.svg year.svg hd-*.svg"
+          FILES="stats.svg streak.svg langs.svg year.svg hd-*.svg ascii.svg"
           [ -z "$(git status --porcelain -- $FILES)" ] && exit 0
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -- $FILES && git commit -m "stats: refresh" && git push
+          git add -- $FILES && git commit -m "stats and portrait: refresh" && git push
