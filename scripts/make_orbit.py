@@ -1,7 +1,8 @@
 import os
 
 def generate_satellite_orbit(filename="orbit.svg"):
-    svg_content = """<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
+    # Changed width="250" and height="250", kept viewBox="0 0 500 500"
+    svg_content = """<svg xmlns="http://www.w3.org/2000/svg" width="250" height="250" viewBox="0 0 500 500">
   <style>
     .ocean { fill: #0984e3; }
     .land { fill: #00b894; }
