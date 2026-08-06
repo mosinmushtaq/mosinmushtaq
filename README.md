@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="orbit.svg" alt="Satellite Orbit Animation">
+  <img src="orbit.svg" alt="Satellite Orbit Animation" width="250">
 </p>
 
 <p align="center">
