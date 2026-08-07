@@ -9,4 +9,4 @@
   <br>
   <img src="langs.svg" alt="Top Languages">
 </p>
-  <img src="ascii.svg" alt="ASCII Portrait">
+ 
