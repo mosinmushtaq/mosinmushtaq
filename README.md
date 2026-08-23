@@ -77,12 +77,6 @@
 </div>
 <br>
 
-**395 contributions in the last year** — *Consistent development across ML projects and full-stack work.*
-- **High-intensity Sprints:** My contribution graph reflects intense, focused project sprints during active development and hackathon cycles (averaging ~13 commits/day during peak weeks).
-- **Primary Languages:** Python (98%), TypeScript (1%), HTML/CSS.
-
----
-
 ### 💼 Experience & Current Focus
 
 - 🔭 **Currently:** Interning at **RuDRAlab (IIT Bombay)** in geospatial and space data science. Working with satellite imagery, building ML pipelines for Earth observation, and shipping AuroraLens live demos.
