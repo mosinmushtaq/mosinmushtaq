@@ -28,7 +28,8 @@ I'm an Artificial Intelligence and Machine Learning student specializing in **Sp
 </p>
 
 <p align="center">
-  <img src="stats.svg" alt="Total Stats" width="45%">
+  <img src="stats.svg" alt="Total Stats" width="45%"></p>
+  <p>
   <img src="langs.svg" alt="Top Languages" width="45%">
 </p>
 
