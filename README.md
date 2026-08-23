@@ -1,7 +1,7 @@
 <div align="center">
 
   
-# Hi, I'm Mosin Mushtaq <img src="github-icon.svg" width="35" style="vertical-align: middle;">
+# Hi, I'm Mosin Mushtaq <img src="github-icon.png" width="35" style="vertical-align: middle;">
 
 **B.Tech AI/ML @ SKUAST-Kashmir | Space ML & Geospatial Data | RuDRAlab Intern @ IIT Bombay**
 
