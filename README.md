@@ -1,8 +1,7 @@
 <div align="center">
-  
-# Hi, I'm Mosin Mushtaq 👋
 
-<img src="orbit.svg" alt="Satellite Orbit Animation" width="250"><br><br>
+  
+# Hi, I'm Mosin Mushtaq <img src="github-icon.svg" width="35" style="vertical-align: middle;">
 
 **B.Tech AI/ML @ SKUAST-Kashmir | Space ML & Geospatial Data | RuDRAlab Intern @ IIT Bombay**
 
