@@ -71,8 +71,9 @@
 ### 📊 GitHub Stats & Contribution Activity
 
 <div align="center">
-  <img src="stats.svg" alt="Total Stats" width="48%" style="max-width: 400px; margin-right: 1%;">
-  <img src="langs.svg" alt="Top Languages" width="48%" style="max-width: 400px;">
+  <img src="stats.svg" alt="Total Stats" width="48%" style="max-width: 400px; margin-right: 1%;"></div>
+  <div align="center">
+    <img src="langs.svg" alt="Top Languages" width="48%" style="max-width: 400px;">
 </div>
 <br>
 
